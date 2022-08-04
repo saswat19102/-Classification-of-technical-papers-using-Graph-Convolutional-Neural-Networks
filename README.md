@@ -1,1 +1,1 @@
-# - Classification of technical papers using Graph Convolutional-Neural-Networks
+# - Classification of technical papers using Graph Convolutional Neural Networks
