@@ -1,6 +1,7 @@
 # Classification of technical papers using Graph Convolutional Neural Networks
 
 - Classified 2708 research papers into 7 classes, based on their research areas.
+- I have build Graph Convolution Networks (GCN) with Spektral API, a Python toolkit for graph deep learning based on Tensorflow 2. Using the CORA dataset, I performed Semi-Supervised Node Classification.
 - A comparison of its implementation with CNN showed that GNN outperformed CNN.
 
 ### Dataset
