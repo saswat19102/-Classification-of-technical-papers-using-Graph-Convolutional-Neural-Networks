@@ -3,7 +3,14 @@
 - Classified 2708 research papers into 7 classes, based on their research areas.
 - A comparison of its implementation with CNN showed that GNN outperformed CNN.
 
-### Link to Dataset
+### Dataset
+The cora dataset consists of two files:
+Cora.content: In this file in each row:
+	First element is the paper ID followed by the 0 or one representing whether the node contains the particular feature or not.
+	Last element is the class label.
+Cora.cites:
+In each row first element is the paperID that is source and second element is the paperID that cites the first element. We are going to form an edge between these two.
+
 https://relational.fit.cvut.cz/dataset/CORA
 
 ### Result with GCNN
